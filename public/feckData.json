@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "image_url": "https://static.toiimg.com/thumb/msid-102851686,width-1280,height-720,resizemode-4/102851686.jpg",
+    "price": 500000,
+    "rating": 9.5
+  },
+  {
+    "id": 2,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "image_url": "https://onecricketnews.akamaized.net/parth-editor/oc-dashboard/news-images-prod/1744889486620_babar_azam.jpg?type=tq",
+    "price": 400000,
+    "rating": 9.2
+  },
+  {
+    "id": 3,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/26b9/live/c7ffff60-e542-11ef-b52b-2f7aceb40199.jpg.webp",
+    "price": 300000,
+    "rating": 9.0
+  },
+  {
+    "id": 4,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "image_url": "https://assets.telegraphindia.com/telegraph/2024/Mar/1709790566_kanewilliamson.jpg",
+    "price": 300000,
+    "rating": 9.1
+  },
+  {
+    "id": 5,
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "All-rounder",
+    "batting_style": "Left-hand bat",
+    "image_url": "https://i.guim.co.uk/img/media/c246468b958d5153b68750fae51511c4c2245f45/0_275_4288_2573/master/4288.jpg?width=700&dpr=2&s=none&crop=none",
+    "price": 200000,
+    "rating": 8.8
+  },
+  {
+    "id": 6,
+    "name": "Joe Root",
+    "country": "England",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "image_url": "https://i.guim.co.uk/img/media/2cbdcf60c98ec990ac549b413c91870bbf0f22a1/130_510_5336_3202/master/5336.jpg?width=700&dpr=2&s=none&crop=none",
+    "price": 300000,
+    "rating": 9.0
+  },
+  {
+    "id": 7,
+    "name": "David Warner",
+    "country": "Australia",
+    "role": "Batsman",
+    "batting_style": "Left-hand bat",
+    "image_url": "https://images.indianexpress.com/2020/09/david-warner-ipl-srh.jpg",
+    "price": 100000,
+    "rating": 8.7
+  },
+  {
+    "id": 8,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-rounder",
+    "batting_style": "Left-hand bat",
+    "image_url": "https://static.cricketaddictor.com/images/posts/2024/Shakib-Al-Hasan.jpg?q=80",
+    "price": 400000,
+    "rating": 9.3
+  },
+  {
+    "id": 9,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2024/12/AFP__20241122__36N39GM__v1__HighRes__CricketAusInd-1733131187.jpg?resize=1920%2C1440",
+    "price": 500000,
+    "rating": 9.4
+  },
+  {
+    "id": 10,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "image_url": "https://www.ariananews.af/wp-content/uploads/2022/05/2122.jpg",
+    "price": 300000,
+    "rating": 9.0
+  },
+  {
+    "id": 11,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "role": "Wicketkeeper Batsman",
+    "batting_style": "Left-hand bat",
+    "image_url": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/2023/10/24/3810944-77470808-2560-1440.jpg",
+    "price": 100000,
+    "rating": 8.6
+  },
+  {
+    "id": 12,
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "batting_style": "Left-hand bat",
+    "image_url": "https://groundzero.pk/wp-content/uploads/2024/12/Shaheen-Afridi-2.jpg",
+    "price": 200000,
+    "rating": 8.9
+  }
+]
